@@ -1,0 +1,18 @@
+# Complexity Science Individual Project CHL 7903 : Thermal Runaway in Batch Reactor
+
+This repository contains the code and results for the individual project applying complexity science to thermal runaway in an exothermic batch reactor.
+
+## Files Included
+- `Batch_reactor_thermal_runaway.py` — Python Monte Carlo simulation code (noise, avalanches, connectivity)
+- `Batch_reactor_thermal_runaway.pdf`- Pdf report of the project
+- `Batch_reactor_thermal_runaway.tex`- Latex report of the project
+- `example_trajectories.png` — Sample temperature trajectories
+- `avalanche_distribution.png` — Avalanche size frequency distribution (power-law)
+- `connectivity_effect.png` — Effect of cooling parameter (Se) on avalanches
+
+## Project Summary
+- Demonstrates **noise**, **avalanches**, and **connectivity** in a batch reactor model.
+- Shows power-law statistics and self-organized criticality near Se ≈ 0.92.
+- Full manuscript (LaTeX) is submitted separately.
+
+GitHub link for submission: https://github.com/satyajitbhattacharjee01/complexity-batch-reactor-runaway
